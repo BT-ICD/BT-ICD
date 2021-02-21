@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on Development with Angular
 - 🤔 Ask me about Angular
 - 📫 How to reach me: icd.bhavin@gmail.com
-- ⚡ Fun fact: I loves coaching. Specially core programming concepts.
+- ⚡ Fun fact: I am passionate for coaching and programming. Specially core programming concepts.
